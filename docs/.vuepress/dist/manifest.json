@@ -1,0 +1,15 @@
+{
+    "name": "eduroamKAIT",
+    "short_name": "eduroamKAIT",
+    "icons": [
+      {
+        "src": "img/favicon.ico",
+        "sizes": "48×48",
+        "type": "image/ico"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff"
+  }
